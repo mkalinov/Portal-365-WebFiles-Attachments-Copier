@@ -52,7 +52,7 @@ namespace WebFilesAttachmentsCopier
 
         #region IHelpPlugin
 
-        string IHelpPlugin.HelpUrl => "https://github.com/mkalinov/WebFilesAttachmentsCopier";
+        string IHelpPlugin.HelpUrl => "https://github.com/mkalinov/Portal365_WebFilesAttachmentsCopier";
 
         #endregion IHelpPlugin
 
